@@ -18,6 +18,7 @@ Le backend utilise les variables d'environnement suivantes :
 - `SPRING_DATASOURCE_URL` : URL de la base de données
 - `SPRING_DATASOURCE_USERNAME` : Nom d'utilisateur de la base de données
 - `SPRING_DATASOURCE_PASSWORD` : Mot de passe de la base de données
+- `SWAGGER` : http://localhost:8080/swagger-ui/index.html
 
 
 
